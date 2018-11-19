@@ -1,0 +1,24 @@
+body, html {
+  height: auto;
+  width: 100%;
+}
+body{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #4D7C8A;
+  color: #1B4079;
+}
+img,video{
+  height: auto;
+  width: 20em;
+  margin: 3em 0;
+}
+.coco{
+  transform: rotate(90deg);
+}
+.boldMe{
+  font-weight: bold;
+}
